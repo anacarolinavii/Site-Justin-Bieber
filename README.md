@@ -1,6 +1,6 @@
  Site Oficial — Justin Bieber
 
-olaa! Este projeto foi desenvolvido com muito carinho como parte dos meus estudos no **1º período de Sistemas de Informação na PUC Minas**. 
+olaa! Este projeto foi desenvolvido com muito carinho como parte dos meus estudos no 1º período de Sistemas de Informação na PUC Minas. 
 A ideia principal foi tirar do papel um site moderno, responsivo e totalmente interativo dedicado ao Justin Bieber(ele é o meu cantor favorito desde criança), unindo um visual minimalista com boas práticas de programação frontend.
 
 Nome: Ana Carolina Almeida Viana
